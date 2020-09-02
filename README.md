@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Using the below template source:
 
 Template Name: Remember
 Template URL: https://bootstrapmade.com/remember-free-multipurpose-bootstrap-template/
