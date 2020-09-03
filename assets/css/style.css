@@ -680,6 +680,7 @@ section {
   display: inline-block;
   height: 20em;
   padding-bottom: 2em;
+  overflow: hidden;
 }
 
 .why-us .box span {
